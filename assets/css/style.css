@@ -1,0 +1,54 @@
+nav:hover {
+    background-color: rgb(39, 39, 39) !important;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+li{
+    font-size: smaller;
+    font-family: 'Roboto', sans-serif;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: #dee2e6 !important;
+}
+
+h2 {
+    cursor: default;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1:hover {
+    color: rgb(32, 133, 133);
+    cursor: default;
+}
+
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: medium !important;
+ }
+
+p {
+    cursor: default;
+    font-family: 'Roboto', sans-serif;
+}
+
+tbody{
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    cursor: default;
+    font-style: inherit;
+}
+
+footer:hover {
+    background-color: rgb(39, 39, 39) !important;
+}
+
+.fuente {
+    font-family: 'Roboto', sans-serif;
+}
